@@ -6,16 +6,6 @@ import requests,sys,time,os,itertools
 
 os.system("color 0a && cls")
 #os.system("clear")
-print ""
-print """
-  _      _       _
- | |    (_)     | |
- | |     _ _ __ | | __
- | |    | | '_ \| |/ /
- | |____| | | | |   <
- |______|_|_| |_|_|\_\
-
-                      """
 def iniciar():
 	print ""
 	print "python pagenc.py http://www.exemplo.com/"
